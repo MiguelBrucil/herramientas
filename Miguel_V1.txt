@@ -1,0 +1,1 @@
+El control de versiones, es la práctica de que ayuda a modificar y llevar un control adecuado de los cambios en el código.
