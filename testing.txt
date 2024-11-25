@@ -1,2 +1,4 @@
 Migue: Software
 Sara: Práctica 
+
+Sara: Qué es git remote? 
