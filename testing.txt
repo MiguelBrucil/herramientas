@@ -2,3 +2,4 @@ Migue: Software
 Sara: Práctica 
 
 Sara: Qué es git remote? 
+Miguel: El comando git remote te permite crear, ver y eliminar conexiones con otros repositorios
