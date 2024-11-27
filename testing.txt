@@ -17,4 +17,4 @@ Sara: ¿Cómo se actualiza la rama local con los últimos cambios del repositori
 Miguel: git pull origin <nombre_de_la_rama>
 
 Sara: ¿Cómo se elimina una rama local en Git?
-
+Miguel: git branch -d <nombre_rama>
