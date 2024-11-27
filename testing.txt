@@ -6,3 +6,4 @@ Miguel: El comando git remote te permite crear, ver y eliminar conexiones con ot
 Sara: Cómo se cambia a una rama existente en git?
 Miguel:git checkout (la rama que se desea cambiar) 
 Sara: ¿Qué comando muestra el historial de commits en el repositorio?
+Miguel: El comando que se utiliza es git log
