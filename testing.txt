@@ -14,3 +14,5 @@ Sara: ¿Qué comando muestra el historial de commits en el repositorio?
 Miguel: El comando que se utiliza es git log.
 
 Sara: ¿Cómo se actualiza la rama local con los últimos cambios del repositorio remoto?
+Miguel: git pull origin <nombre_de_la_rama>
+
